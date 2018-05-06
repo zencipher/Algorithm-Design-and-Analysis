@@ -1,0 +1,50 @@
+==================
+test 1:
+student:
+18
+0x7fffd6ed19a0 0x7fffd6ed19a8 -1
+
+grader:
+18
+1 6 -1
+
+==================
+test 2:
+student:
+30
+0x7fff58fc8660 0x7fff58fc8668 -1
+
+grader:
+30
+10 -1
+
+==================
+test 3:
+student:
+10
+0x7fff1562f370 0x7fff1562f378 -1
+
+grader:
+10
+2 2 -1
+
+==================
+test 4:
+student:
+69
+0x7fff88ab8290 0x7fff88ab8298 -1
+
+grader:
+69
+20 -1
+
+==================
+test 5:
+student:
+70
+0x7fffcd3240b0 0x7fffcd3240b8 -1
+
+grader:
+70
+1 20 -1
+
