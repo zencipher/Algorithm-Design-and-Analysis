@@ -2,7 +2,7 @@
 All labs for CSE100 Spring 2018
 
 ## About
-| Labs  | Descriptions |
+| Labs  | Topics |
 | ----- | ------------------------------------------------------------- |
 | Lab01 | Insertion Sort                                                |
 | Lab02 | Merge Sort                                                    |
